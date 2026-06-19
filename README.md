@@ -2,7 +2,7 @@
 
 Este repositório reúne minhas soluções para os exercícios de lógica de programação desenvolvidos durante o curso **"Algoritmo e Lógica de Programação – O Curso Completo"**, ministrado pelo **Prof. Dr. Nélio Alves** na Udemy.
 
-O objetivo deste repositório é registrar minha evolução nos estudos e servir como material de consulta e prática.
+O objetivo deste repositório é registrar minha evolução nos estudos, praticar a resolução de problemas e servir como material de consulta para revisões futuras.
 
 ## 📚 Conteúdos praticados
 
@@ -13,29 +13,38 @@ O objetivo deste repositório é registrar minha evolução nos estudos e servir
 
 ## 🎯 Objetivo
 
-Desenvolver o raciocínio lógico, praticar resolução de problemas e construir uma base sólida para estudar linguagens de programação como Java, C, Python e outras.
+Desenvolver o raciocínio lógico, fortalecer a capacidade de resolver problemas computacionais e construir uma base sólida para o estudo de linguagens de programação como Java, C, Python e outras.
 
 ## 💻 Linguagem utilizada
 
-Os algoritmos foram implementados em **Portugol**, utilizando o **VisualG** como ambiente de desenvolvimento.
+Todos os algoritmos foram implementados em **Portugol**, utilizando o **VisualG** como ambiente de desenvolvimento.
 
 ## 📈 Sobre as soluções
 
-Todos os códigos deste repositório foram escritos por mim durante o processo de aprendizagem.
+Todas as soluções deste repositório foram desenvolvidas por mim durante o processo de aprendizagem e estudo de algoritmos e lógica de programação.
 
-Como representam minha evolução ao longo do curso, é natural que algumas soluções sejam diferentes entre si em termos de estilo, organização ou abordagem. Em vários exercícios, optei por ir além do que o enunciado exigia, adicionando melhorias como:
+Como representam minha evolução ao longo do curso, é natural que alguns códigos apresentem estilos ou abordagens diferentes. Em diversos exercícios, optei por ir além do que era solicitado no enunciado, implementando melhorias como:
 
-- Validação de entradas do usuário;
-- Tratamento de casos especiais;
-- Organização e clareza do código;
-- Pequenas otimizações quando apropriado.
+- ✅ Validação de entradas do usuário;
+- ✅ Tratamento de casos especiais;
+- ✅ Melhor organização e legibilidade do código;
+- ✅ Pequenas otimizações quando apropriado;
+- ✅ Adição de verificações extras para tornar as soluções mais robustas.
 
-Em outros casos, mantive soluções mais simples para priorizar a legibilidade e o aprendizado do conceito trabalhado.
+Em outros casos, preferi manter implementações mais simples para priorizar o aprendizado do conceito trabalhado naquele momento.
+
+## 🧠 Aprendizados
+
+Durante a resolução dos exercícios, procurei não apenas obter a resposta correta, mas também desenvolver boas práticas de programação, como análise de casos extremos, organização da lógica, reutilização de ideias e escrita de algoritmos claros e fáceis de compreender.
 
 ## 🚀 Evolução
 
-Este repositório registra minha jornada de aprendizado em algoritmos e lógica de programação. Cada exercício resolvido contribuiu para fortalecer minha capacidade de analisar problemas, criar algoritmos e desenvolver soluções de forma estruturada.
+Este repositório documenta minha jornada de aprendizado em algoritmos e lógica de programação. Cada exercício concluído contribuiu para aprimorar meu raciocínio lógico e minha capacidade de desenvolver soluções estruturadas para diferentes tipos de problemas.
 
 ## 📌 Observação
 
-Os exercícios utilizados como base pertencem ao curso do Prof. Dr. Nélio Alves. Este repositório contém apenas minhas implementações e soluções pessoais para fins de estudo e prática.
+Os exercícios resolvidos têm como base o curso do **Prof. Dr. Nélio Alves**. Este repositório contém exclusivamente minhas implementações e soluções pessoais, produzidas para fins de estudo, prática e desenvolvimento das minhas habilidades em programação.
+
+## 📄 Licença
+
+Este repositório foi criado exclusivamente para fins educacionais e de prática pessoal. Todo o código presente aqui foi desenvolvido por mim durante meus estudos.
